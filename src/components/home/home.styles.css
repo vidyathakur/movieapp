@@ -1,0 +1,24 @@
+
+.customHeight{
+  height: auto;
+}
+
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    height: 285px;
+}
+
+
+
+a:hover{
+  color: #007bff;
+}
+
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    height: 278px;
+}

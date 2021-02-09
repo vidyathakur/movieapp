@@ -1,0 +1,14 @@
+.bg-light {
+    background-color: #008394!important;
+    position: fixed;
+    width: 100%;
+}
+.customLink{
+  color:#fff;
+}
+a:hover{
+  color: #fff;
+}
+.customIcon{
+  font-size: 25px;
+}

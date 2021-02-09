@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.search-contacts {
+  width: 100%;
+  padding: 20px 20px 20px 60px;
+  background-image: url('./icons/search.svg');
+  background-repeat: no-repeat;
+  background-position: 20px center;
+  background-size: 1.2em;
+  font-size: 1.2em;
+  border: 0;
+  outline: none;
+  height: 50px;
+  border-radius: 4px;
+}
+
